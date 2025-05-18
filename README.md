@@ -1,4 +1,4 @@
-# sqlinjection
+# Sqlinjection
 Exploiting SQL Injection vulnerability
 
 # AIM:
