@@ -1,6 +1,7 @@
 # Sqlinjection
 Exploiting SQL Injection vulnerability
-
+### Name : Harevasu S
+### Register No.: 212223230069
 # AIM:
 To exploit SQL Injection vulnerability using Multidae web application in Metasploitable2
 
